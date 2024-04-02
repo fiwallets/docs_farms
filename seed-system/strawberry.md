@@ -1,4 +1,4 @@
-# 🍊 Strawberry
+# 🍓 Strawberry
 
 * **Economy values:** Medium
 * **Growing period:** Strawberry trees have an average growth period, need to be watered 3 times to be harvested.

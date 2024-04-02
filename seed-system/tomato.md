@@ -1,4 +1,4 @@
-# 🍈 Tomato
+# 🍅 Tomato
 
 * **Economy values:** High
 * **Growing period:** Tomato has a fairly long growth period, it needs to be watered 8 times to be able to harvest.

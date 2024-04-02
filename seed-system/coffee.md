@@ -1,4 +1,4 @@
-# 🍏 Coffee
+# 🫒 Coffee
 
 * **Economy values:** Low
 * **Growing period:** Coffee trees have a short growth period and only need to be watered 2 times harvested.

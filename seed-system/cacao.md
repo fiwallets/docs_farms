@@ -1,4 +1,4 @@
-# 🍏 Cacao
+# 🫒 Cacao
 
 * **Economy values:** Low
 * **Growing period:** Cacao trees have a short growth period and only need to be watered 2 times harvested.

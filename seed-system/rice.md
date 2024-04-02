@@ -1,4 +1,4 @@
-# 🍐 Rice
+# 🌾 Rice
 
 * **Economy values:** Medium
 * **Growing period:** Rice trees have an average growth period, need to be watered 5 times to be harvested.

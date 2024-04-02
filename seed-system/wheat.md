@@ -1,4 +1,4 @@
-# 🍒 Wheat
+# 🌾 Wheat
 
 * **Economy values:** Medium-high
 * **Growing period:** Wheat has a fairly long growth period, it needs to be watered 6 times to be able to harvest.

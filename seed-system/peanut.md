@@ -1,4 +1,4 @@
-# 🍒 Peanut
+# 🥜 Peanut
 
 * **Economy values:** Medium-high
 * **Growing period:** Peanut has a fairly long growth period, it needs to be watered 6 times to be able to harvest.

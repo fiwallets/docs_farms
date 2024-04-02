@@ -1,4 +1,4 @@
-# 🍊 Sugarcane
+# 🫒 Sugarcane
 
 * **Economy values:** Medium
 * **Growing period:** Sugarcane trees have an average growth period, need to be watered 3 times to be harvested.

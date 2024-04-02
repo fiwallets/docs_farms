@@ -1,4 +1,4 @@
-# 🍏 Rubber
+# 🫒 Rubber
 
 * **Economy values:** Low
 * **Growing period:** Rubber trees have a short growth period and only need to be watered 2 times harvested.

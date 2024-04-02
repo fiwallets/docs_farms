@@ -1,4 +1,4 @@
-# 🫒 Potato
+# 🥔 Potato
 
 * **Economy values:** Very high
 * **Growing period:** Potato trees have a very long growth period, need to be watered 10 times to be harvested.
