@@ -1,7 +1,7 @@
-# 🥑 Avocado
+# 🥑 Jasmine
 
 * **Economy values:** Quite high
-* **Growing period:** Avocado has a fairly long growth period, it needs to be watered 7 times to be able to harvest.
+* **Growing period:** Jasmine has a fairly long growth period, it needs to be watered 7 times to be able to harvest.
 * **Origin:** The avocado tree originated in Mexico and Central America. Indigenous Nahua people found avocado trees 10,000 years ago when avocado trees grow naturally in the wild. Ancient varieties of avocados have also been discovered in Guatemala and the Antilles Islands.
 
 <div>

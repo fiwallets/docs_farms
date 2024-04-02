@@ -1,7 +1,7 @@
-# 🍒 Cherry
+# 🍒 Carrot
 
 * **Economy values:** Medium-high
-* **Growing period:** Cherry has a fairly long growth period, it needs to be watered 6 times to be able to harvest.
+* **Growing period:** Carrot has a fairly long growth period, it needs to be watered 6 times to be able to harvest.
 * **Origin:** Cherry is a tree native to temperate climates such as Eastern Europe and Western Asia, planted around 600 BC. Ancient Egyptians, Greeks, and Romans all loved this fruit because of its beautiful appearance and delicious taste. Cherry was introduced from Europe to America around the 16th century and is a reasonably popular fruit in America.
 
 <div>

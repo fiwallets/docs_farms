@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👨‍🌾 Welcome to the farm in Solana!](README.md)
+* [👨‍🌾 Welcome to the farm in Miexs!](README.md)
 
 ## ABOUT MIEXSFARM
 
@@ -20,13 +20,25 @@
 
 ## SEED SYSTEM
 
-* [🍏 Apple](seed-system/apple.md)
-* [🍊 Orange](seed-system/orange.md)
-* [🍐 Pear](seed-system/pear.md)
-* [🍒 Cherry](seed-system/cherry.md)
-* [🥑 Avocado](seed-system/avocado.md)
-* [🍈 Chirimoya](seed-system/chirimoya.md)
-* [🫒 Cocoa](seed-system/cocoa.md)
+* [🍏 Rose](seed-system/rose.md)
+* [🍊 Jasmine](seed-system/jasmine.md)
+* [🍐 Carrot](seed-system/carrot.md)
+* [🍒 Tomato](seed-system/tomato.md)
+* [🥑 Potato](seed-system/potato.md)
+* [🍈 Strawberry](seed-system/strawberry.md)
+* [🫒 Rice](seed-system/rice.md)
+* [🫒 Wheat](seed-system/wheat.md)
+* [🫒 Peanut](seed-system/peanut.md)
+* [🫒 Corn](seed-system/corn.md)
+* [🫒 Cotton](seed-system/cotton.md)
+* [🫒 Sugarcane](seed-system/sugarcane.md)
+* [🫒 Silk](seed-system/silk.md)
+* [🫒 Teaplant](seed-system/teaplant.md)
+* [🫒 Pepper](seed-system/pepper.md)
+* [🫒 Rubber](seed-system/rubber.md)
+* [🫒 Coffee](seed-system/coffee.md)
+* [🫒 Cacao](seed-system/cacao.md)
+* [🫒 Pinetree](seed-system/pinetree.md)
 
 ## SOCIAL MEDIA
 

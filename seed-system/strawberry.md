@@ -1,7 +1,7 @@
-# 🍊 Orange
+# 🍊 Strawberry
 
 * **Economy values:** Medium
-* **Growing period:** Orange trees have an average growth period, need to be watered 3 times to be harvested.
+* **Growing period:** Strawberry trees have an average growth period, need to be watered 3 times to be harvested.
 * **Origin:** They believed that oranges were known in China around 314 BC, where citrus had been cultivated for thousands of years. Because of the Silk Road, oranges began to spread throughout Eastern, Western, and Europe.
 
 <div>

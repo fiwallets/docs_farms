@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 👨‍🌾 Welcome to the farm in Solana!
+# 👨‍🌾 Welcome to the farm in Miexs!
 
 ## Welcome to MiexsFarm!!
 

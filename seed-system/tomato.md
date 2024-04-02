@@ -1,7 +1,7 @@
-# 🍈 Chirimoya
+# 🍈 Tomato
 
 * **Economy values:** High
-* **Growing period:** Chirimoya has a fairly long growth period, it needs to be watered 8 times to be able to harvest.
+* **Growing period:** Tomato has a fairly long growth period, it needs to be watered 8 times to be able to harvest.
 * **Origin:** Cherimoya is native to the Andes mountain range between Argentina and Chile and was called Chirimuya by the Incas. Cherimoya is one of the rare fruits grown mainly in South America. It is a native tree of Central America, northern South America, North Africa and other regions.
 
 <div>
