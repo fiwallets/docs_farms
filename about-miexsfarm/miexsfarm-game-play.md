@@ -17,11 +17,42 @@ layout:
     visible: true
 ---
 
-# 🎮 MiexsFarm Game-play
+# 🎮 MiexsFarm - Game Flow
 
-* The NFTs in the game are seeds. Players can buy the seeds on **Seed Shop,** sow the seeds, take care of them. When the required number of waterings is reached, the tree will bear fruit and the player can harvest agricultural products in the form of tokens.
-* Each player has 20 plots of land available. The player needs to plant the seeds on the plots of land of the farm. Each type of tree has a different maturity time and the number of tokens earned is also different.
+
+
+* The NFTs in the game are seeds. Players can buy the seeds on **Seed Shop,** sow the seeds, and take care of them. When the required number of waterings is reached, the tree will bear fruit and the player can harvest agricultural products in the form of tokens.
+* Each player has 30 plots of land available. The player needs to plant the seeds on the plots of land of the farm. Each type of tree has a different maturity time and the number of tokens earned is also different.
 * Crops need to be tended before they can be harvested. After planting, the player needs to water them sufficiently every 24 hours. When the required number of waterings is reached, the tree will bear fruit and the player can harvest agricultural products in the form of tokens.
 * If the tree is not taken care of, it will be slow to grow and cannot be harvested on time, significantly affecting the yield.
 * **Through the ORACLE system, crop prices and crop profits when converted to USD will not change. The profit from the harvest will be fixed depending on the variety you grow without regard to the price of token.**
 * After harvesting, the plant will die and you must buy new seeds to plant.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-17 153651 (1).png" alt=""><figcaption><p>Game Mechanics Farm</p></figcaption></figure>
+
+### _**An overall look at the entire game flow.**_&#x20;
+
+#### **Step 1: Set up**
+
+To start playing the game, each "future farmer" of MiexsFarm needs to create an account for the game to get started.
+
+1. First thing first, install Metamask wallet and log in to your account.
+2. Please visit the link [**https://farms.miexs.com**](https://farms.miexs.com) and connect your Metamask wallet to log in to the game.
+
+Each account will be a transaction wallet address, which farmers can use to store items and confirm transactions through this wallet.
+
+#### **Step 2:** Cultivation process
+
+Each player has 30 plots of land available. The player needs to plant the seeds on the plots of land of the farm.
+
+1. **Planting Seeds**
+
+* Farmer Players can choose from various seeds or seedlings available in the game's store. Click \[**Seed Shop**] to buy.
+* Each plant has detailed information, including estimated maturity time, incidence of special variations, and harvest value.
+
+For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmine" plant has a maturation time of 5 hours.
+
+2. **Taking care of plants**
+
+
+

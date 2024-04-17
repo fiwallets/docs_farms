@@ -1,4 +1,4 @@
-# 🍊 Jasmine
+# 💐 Jasmine
 
 * **Economy values:** Quite high
 * **Growing period:** Jasmine has a fairly long growth period, it needs to be watered 7 times to be able to harvest.

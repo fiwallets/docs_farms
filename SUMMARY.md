@@ -4,7 +4,7 @@
 
 ## ABOUT MIEXSFARM
 
-* [🎮 MiexsFarm Game-play](about-miexsfarm/miexsfarm-game-play.md)
+* [🎮 MiexsFarm - Game Flow](about-miexsfarm/miexsfarm-game-play.md)
 * [🏵️ MiexsFarm Rules](about-miexsfarm/miexsfarm-rules.md)
 
 ## REFERRAL SYSTEM
@@ -17,11 +17,12 @@
 
 * [🐷 Basic Features](game-features/basic-features.md)
 * [🌈 Upcoming Features](game-features/upcoming-features.md)
+* [Page](game-features/page.md)
 
 ## SEED SYSTEM
 
 * [🌹 Rose](seed-system/rose.md)
-* [🍊 Jasmine](seed-system/jasmine.md)
+* [💐 Jasmine](seed-system/jasmine.md)
 * [🥕 Carrot](seed-system/carrot.md)
 * [🍅 Tomato](seed-system/tomato.md)
 * [🥔 Potato](seed-system/potato.md)

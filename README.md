@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/miexsfarm_banner.jpg
+cover: .gitbook/assets/Homesfarmmiexs.png
 coverY: 0
 layout:
   cover:
