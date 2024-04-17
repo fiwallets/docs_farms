@@ -21,7 +21,27 @@ layout:
 
 **With the ORACLE system, players are guaranteed a profit from each type of tree they choose to buy and farm. The tokens will be balanced to the rate of USD when players buy the seeds and harvest. So players only need to care about the seed price in the shop and the seed's profit rate. No need to care about the price of the tokens.**\_The information about the price and profit percentage of seeds after harvest is calculated according to the following table:
 
-<table data-header-hidden><thead><tr><th width="166">Seed Name</th><th width="153">Seed Price</th><th width="148">Selling Price</th><th width="159">Growing Time</th><th width="258">Revenue</th></tr></thead><tbody><tr><td><strong>Rose</strong> </td><td>280</td><td>30</td><td>4 hours</td><td>3000</td></tr><tr><td><strong>Jasmine</strong> </td><td>320</td><td>34</td><td>5 hours</td><td>3400</td></tr><tr><td><strong>Carrot</strong></td><td>360</td><td>38</td><td>6 hours</td><td>3800</td></tr><tr><td><strong>Tomato</strong></td><td>400</td><td>42</td><td>7 hours</td><td>4200</td></tr><tr><td><strong>Potato</strong></td><td>440</td><td>46</td><td>8 hours</td><td>4600</td></tr><tr><td><strong>Strawberry</strong></td><td>480</td><td>50</td><td>9 hours</td><td>5000</td></tr><tr><td><strong>Rice</strong></td><td>520</td><td>54</td><td>10 hours</td><td>5400</td></tr><tr><td><strong>Wheat</strong></td><td>560</td><td>58</td><td>11 hours</td><td>5800</td></tr><tr><td><strong>Peanut</strong></td><td>600</td><td>62</td><td>12 hours</td><td>6200</td></tr><tr><td><strong>Corn</strong></td><td>640</td><td>66</td><td>13 hours</td><td>6600</td></tr><tr><td><strong>Cotton</strong></td><td>680</td><td>70</td><td>14 hours</td><td>7000</td></tr><tr><td><strong>Sugarcane</strong></td><td>720</td><td>74</td><td>15 hours</td><td>7400</td></tr><tr><td><strong>Silk</strong></td><td>760</td><td>78</td><td>16 hours</td><td>7800</td></tr><tr><td><strong>Teaplant</strong></td><td>800</td><td>82</td><td>17 hours</td><td>8200</td></tr><tr><td><strong>Pepper</strong></td><td>840</td><td>86</td><td>18 hours</td><td>8600</td></tr><tr><td><strong>Rubber</strong></td><td>880</td><td>90</td><td>19 hours</td><td>9000</td></tr><tr><td><strong>Coffee</strong></td><td>920</td><td>94</td><td>20 hours</td><td>9400</td></tr><tr><td><strong>Cacao</strong></td><td>960</td><td>98</td><td>21 hours</td><td>9800</td></tr><tr><td><strong>Pinetree</strong></td><td>1000</td><td>102</td><td>22 hours</td><td>10200</td></tr></tbody></table>
+| Seed Name      | Seed Price | Selling Price | Growing Time | Revenue |
+| -------------- | ---------- | ------------- | ------------ | ------- |
+| **Rose**       | 280        | 30            | 4 hours      | 3000    |
+| **Jasmine**    | 320        | 34            | 5 hours      | 3400    |
+| **Carrot**     | 360        | 38            | 6 hours      | 3800    |
+| **Tomato**     | 400        | 42            | 7 hours      | 4200    |
+| **Potato**     | 440        | 46            | 8 hours      | 4600    |
+| **Strawberry** | 480        | 50            | 9 hours      | 5000    |
+| **Rice**       | 520        | 54            | 10 hours     | 5400    |
+| **Wheat**      | 560        | 58            | 11 hours     | 5800    |
+| **Peanut**     | 600        | 62            | 12 hours     | 6200    |
+| **Corn**       | 640        | 66            | 13 hours     | 6600    |
+| **Cotton**     | 680        | 70            | 14 hours     | 7000    |
+| **Sugarcane**  | 720        | 74            | 15 hours     | 7400    |
+| **Silk**       | 760        | 78            | 16 hours     | 7800    |
+| **Teaplant**   | 800        | 82            | 17 hours     | 8200    |
+| **Pepper**     | 840        | 86            | 18 hours     | 8600    |
+| **Rubber**     | 880        | 90            | 19 hours     | 9000    |
+| **Coffee**     | 920        | 94            | 20 hours     | 9400    |
+| **Cacao**      | 960        | 98            | 21 hours     | 9800    |
+| **Pinetree**   | 1000       | 102           | 22 hours     | 10200   |
 
 * You need to buy seeds before you start planting, and each seed has a different price.
 * During the growth process, you need to water the plant at least three times. After each watering, the water will remain for at least one-third of the growth time. If the soil dries out, the plant will reduce its yield.
