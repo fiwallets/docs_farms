@@ -45,7 +45,7 @@ _**An overall look at the entire game flow.**_&#x20;
 To start playing the game, each **"**future farmer" of MiexsFarm needs to create an account for the game to get started.
 
 1. First thing first, install Metamask wallet and log in to your account.
-2. Please visit the link [**https://farms.miexs.com**](https://farms.miexs.com) and connect your Metamask wallet to log in to the game.
+2. Please visit the link [**`https://farms.miexs.com`**](https://farms.miexs.com) and connect  **`Metamask`**` ``wallet` to log in to the game.
 
 Each account will be a transaction wallet address, which farmers can use to store items and confirm transactions through this wallet.
 
@@ -55,7 +55,7 @@ Each player has 30 plots of land available. The player needs to plant the seeds 
 
 **1. Planting Seeds**
 
-* Farmer Players can choose from various seeds or seedlings available in the game's store. Click \[**`Shop`**] to buy.
+* Farmer Players can choose from various seeds or seedlings available in the game's store. Click \[[**`Shop`**](../game-features/basic-features/shop.md)] to buy.
 * Each plant has detailed information, including estimated maturity time, incidence of special variations, and harvest value.
 
 For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmine" plant has a maturation time of 5 hours.
@@ -71,14 +71,14 @@ For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmi
 
 #### **4. Harvests**&#x20;
 
-* When the tree has matured, Farmers can harvest it to receive the corresponding product \[**`Warehouses`**]
+* When the tree has matured, Farmers can harvest it to receive the corresponding product \[[**`Storehouses`**](../game-features/basic-features/warehouse.md)]
 * Harvest yield may vary depending on seed quality.
 * After harvesting, the plant will be lost and you must buy new seeds to plant.
 
-#### **Step 3:  Warehouse**
+#### **Step 3:  Storehouse**
 
 * When harvesting, you will receive the product. The product is expected to be stored in the player's inventory.&#x20;
-* **Products:** Farmers can use it to sell products from the warehouse, they will receive a corresponding amount of FGT in the game.
+* **Products:** Farmers can use it to sell products from the storehouse, they will receive a corresponding amount of FGT in the game.
 * FGT in the game, can use buy chest.
 
 **Step 4:  Buy Chest**&#x20;

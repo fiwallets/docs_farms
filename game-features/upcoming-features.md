@@ -14,6 +14,7 @@ layout:
 
 # 🌈 Upcoming Features
 
+* **Money Tree:** All players on the server join hands to water the money tree – the ancestor of prosperity on the island. After every 7 days, the reward will be divided among the participants.
 * **Piggy Bank**: Every day the player can save a certain number of tokens into the piggy bank, when players want to withdraw money, they will smash the piggy bank. Depending on how much time you save, you will receive the corresponding tokens.
 * **Farm Expansion:** Players can expand their farm by paying the mayor a certain amount of tokens. Or if you have enough money, you can buy an island in the clouds for yourself.
 * **Livestock:** In addition to farming, players can dig fish ponds or raise cattle and poultry. Livestock production thrives, trade is busier and exchanges between players are also needed.
