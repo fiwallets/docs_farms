@@ -26,7 +26,7 @@ layout:
 * Through the ORACLE system, crop prices and crop profits when converted to USD will not change. The profit from the harvest will be fixed depending on the variety you grow without regard to the price of the token.
 * After harvesting, the plant will die and you must buy new seeds to plant.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-17 153651.png" alt=""><figcaption><p>Merchanics Game Farm</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-17 172448.png" alt=""><figcaption></figcaption></figure>
 
 _**An overall look at the entire game flow.**_&#x20;
 
@@ -45,7 +45,7 @@ Each player has 30 plots of land available. The player needs to plant the seeds 
 
 **1. Planting Seeds**
 
-* Farmer Players can choose from various seeds or seedlings available in the game's store. Click \[**Seed Shop**] to buy.
+* Farmer Players can choose from various seeds or seedlings available in the game's store. Click \[**Shop**] to buy.
 * Each plant has detailed information, including estimated maturity time, incidence of special variations, and harvest value.
 
 For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmine" plant has a maturation time of 5 hours.
@@ -63,7 +63,16 @@ For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmi
 
 * When the tree has matured, Farmers can harvest it to receive the corresponding product.
 * Harvest yield may vary depending on seed quality.
-*
+
+#### **Step 3:**  Internal Market and Token Game
+
+Khi thu hoạch sẽ nhận được product,  Farmer có thể dùng sản phẩm đế bán đổi lấy FGT (Farm Game Token is a Currency in the game).&#x20;
+
+\+ Currently, FGT is only function is to purchase a chest which will allow them to unlock a earn rewards
+
+
+
+
 
 
 
