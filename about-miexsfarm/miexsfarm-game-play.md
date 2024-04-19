@@ -25,7 +25,7 @@ layout:
 
 **1. Play Game:** Register an account by connecting to Metamask wallet
 
-**2. Shop: the** player can buy the seeds on Shop. In addition, you can buy other items such as fertilizer, Animal, animal feed, etc.
+**2. Shop: The** player can buy the seeds on Shop. In addition, you can buy other items such as fertilizer, Animal, animal feed, etc.
 
 **3. Sow the seeds, take care and harvest :**&#x20;
 
@@ -71,14 +71,14 @@ For example, the "Rose" plant has a maturation time of 4 hours, while the "Jasmi
 
 #### **4. Harvests**&#x20;
 
-* When the tree has matured, Farmers can harvest it to receive the corresponding product \[[**`Storehouses`**](../game-features/basic-features/warehouse.md)]
+* When the tree has matured, Farmers can harvest it to receive the corresponding product \[[**`Storehouses`**](../game-features/basic-features/storehouse.md)]
 * Harvest yield may vary depending on seed quality.
 * After harvesting, the plant will be lost and you must buy new seeds to plant.
 
-#### **Step 3:  Storehouse**
+#### **Step 3:  Warehouse**
 
 * When harvesting, you will receive the product. The product is expected to be stored in the player's inventory.&#x20;
-* **Products:** Farmers can use it to sell products from the storehouse, they will receive a corresponding amount of FGT in the game.
+* **Products:** Farmers can use it to sell products from the warehouse, they will receive a corresponding amount of FGT in the game.
 * FGT in the game, can use buy chest.
 
 **Step 4:  Buy Chest**&#x20;
