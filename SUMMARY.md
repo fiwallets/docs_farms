@@ -15,9 +15,12 @@
 
 ## GAME FEATURES
 
-* [🐷 Basic Features](game-features/basic-features.md)
+* [✨ Basic Features](game-features/basic-features/README.md)
+  * [🛒 Shop](game-features/basic-features/shop.md)
+  * [🌱 Planting](game-features/basic-features/planting.md)
+  * [🛖 Storehouse](game-features/basic-features/storehouse.md)
+  * [🎁 Treasure Chest Box](game-features/basic-features/treasure-chest-box.md)
 * [🌈 Upcoming Features](game-features/upcoming-features.md)
-* [Page](game-features/page.md)
 
 ## SEED SYSTEM
 

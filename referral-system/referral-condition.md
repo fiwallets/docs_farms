@@ -3,12 +3,12 @@ cover: ../.gitbook/assets/bn3.png
 coverY: 0
 layout:
   cover:
-    visible: true
+    visible: false
     size: hero
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,7 +19,18 @@ layout:
 
 # 🎯 Referral Condition
 
-* Players who meet the 2 conditions: the number of refs and the number of NFTs of each VIP level will be promoted to the next VIP level.
-* The referred person must purchase at least 5 seeds total and diligently cultivate, the referrer will receive a % bonus from the Ref system.
-* The referred person joining the system will receive a 1% discount on the purchase price of seeds
-* <mark style="color:red;">**Any cheating, hacking or exploiting bugs will be banned immediately!!**</mark>
+In the game, there's a VIP system where players can upgrade by meeting two specific conditions: the number of referrals and the number of NFTs at each VIP level.
+
+1. **VIP Promotion:**
+   * Players will upgrade their VIP level when they meet the following two conditions:
+     * The required number of referrals (refs).
+     * The required number of NFTs for each VIP level.
+2. **Conditions for Referred Players:**
+   * Referred players must purchase at least 5 seeds total and diligently cultivate.
+   * For each referred player who fulfils these conditions, the referrer will receive a percentage (%) bonus from the Referral system.
+3. **Benefits for Referred Players:**
+   * Referred players joining the system will receive a 1% discount on the purchase price of seed packs.
+
+This system creates conditions for VIP-level upgrades based on increasing participation and NFT ownership while also encouraging interaction and purchases within the community through referral bonuses and discounts.
+
+❌<mark style="color:red;">**Any cheating, hacking or exploiting bugs will be banned immediately!!**</mark>
