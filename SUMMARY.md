@@ -32,7 +32,7 @@
   * [🥔 Potato](seed-system/potato.md)
   * [🍓 Strawberry](seed-system/strawberry.md)
   * [🌾 Rice](seed-system/rice.md)
-  * [🌾 Wheat](seed-system/wheat.md)
+  * [☀️ Wheat](seed-system/wheat.md)
   * [🥜 Peanut](seed-system/peanut.md)
   * [💮 Cotton](seed-system/cotton.md)
   * [🫧 Sugarcane](seed-system/sugarcane.md)

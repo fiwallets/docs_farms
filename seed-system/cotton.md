@@ -14,6 +14,8 @@ layout:
 
 # 💮 Cotton
 
+<figure><img src="../.gitbook/assets/cotton.png" alt=""><figcaption></figcaption></figure>
+
 * **Economy values:** Medium-high
 * **Growing period:** The growing period of cotton takes approximately 14 hours. Need to be watered 3 times according to the prescribed time frame to be able to harvest.\
   However, this timeframe can be influenced by factors such as the timing of watering and fertilizer application.
