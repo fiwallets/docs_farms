@@ -1,14 +1,13 @@
 ---
-cover: ../../.gitbook/assets/feature.png
 coverY: 0
 layout:
   cover:
-    visible: true
-    size: full
+    visible: false
+    size: hero
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:

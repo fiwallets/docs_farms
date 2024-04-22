@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🌱 Planting
+# 🪴 Planting
 
 ## 1. Planting seeds
 
@@ -25,6 +25,8 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 <figure><img src="../../.gitbook/assets/planting.png" alt=""><figcaption></figcaption></figure>
 
 * Continue, to choose the type of seed you want to plant. Each type of plant may require different growing conditions. So the planting was successful.
+
+<mark style="color:red;">**Attention:**</mark> If the player chooses to destroy a planted tree, it will be permanently removed from their inventory or farm. Consequently, the player will not receive any seeds or refunds for the destroyed tree.
 
 ## **2. Taking care of plants**
 

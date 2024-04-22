@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🐔 Honors List
+# 🧮 Honors List
 
 Here's how it could work:
 

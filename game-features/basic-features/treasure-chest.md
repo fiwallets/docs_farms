@@ -50,7 +50,7 @@ For example, if you open a chest of Bronze containing 1500 tokens,
 
 
 
-<mark style="color:red;">**=> The rate to receive rewards and the number of bonus items in the ball can be changed according to customer requests.**</mark>
+❌ <mark style="color:red;">**The rate to receive rewards and the number of bonus items in the ball can be changed according to customer requests.**</mark>
 
 
 
