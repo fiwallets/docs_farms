@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🥔 Potato
+
+<figure><img src="../.gitbook/assets/potato.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** Medium
 * **Growing period:** Potatoes have a not too long growth period, taking about 8 hours for the plant to mature. It's crucial to water them at specified intervals to achieve maximum yield.

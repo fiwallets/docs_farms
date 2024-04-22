@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🫘 Cacao
+
+<figure><img src="../.gitbook/assets/cacao.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** Very high
 * **Growing period:** Cacao trees have a relatively long growing period compared to many other crops, taking approximately 21 hours to mature. \

@@ -1,13 +1,14 @@
 ---
-coverY: 0
+cover: ../../.gitbook/assets/Screenshot 2024-04-22 133305.png
+coverY: 131
 layout:
   cover:
-    visible: false
+    visible: true
     size: hero
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:

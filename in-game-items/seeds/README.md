@@ -26,12 +26,13 @@ Each type of seed may have its characteristics, such as growing time, yield, and
 
 To determine the watering milestones and harvest time for plants in the game, based on the planting time and a coefficient calculated from the growth time :
 
-**Dis = Growing Time/3**
+<mark style="color:blue;background-color:purple;">**Growth Interval (GI)**</mark> **= Growing Time / 3 times**
 
-**Watering milestones = \[Planting Time + Dis \* 0, Planting Time + Dis \* 1, Planting Time + Dis \* 2].**
+<mark style="color:blue;background-color:yellow;">**Watering milestones**</mark> **= \[Planting Time + GI \* 0 , Planting Time + GI \* 1 , Planting Time + GI \* 2]**
 
-**Harvest time = Planting Time + Dis \* 2**
+<mark style="color:blue;background-color:orange;">**Harvest time**</mark>** = Planting Time + GI \* 2**
 
-* "Dis" is determined by dividing the growing time by 3.
-* Watering milestones are calculated by adding "Dis" to the planting time, multiplied by 0, 1, and 2.
-* Harvest time is calculated by adding "Dis" to the planting time, multiplied by 2.
+* **Growth Interval (GI)** The amount of time it takes for the plant to grow to the next level is referred to as the growth period or growing time. Determined by dividing the growing time by 3.
+* **Watering milestones:** The times when plants need to be watered to grow. Players to water at the correct intervals, to ensure maximum growth and yield.
+* **Harvest time** is calculated by adding "GI" to the planting time, multiplied by 2.
+

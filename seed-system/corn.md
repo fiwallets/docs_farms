@@ -14,6 +14,8 @@ layout:
 
 # 🌽 Corn
 
+<figure><img src="../.gitbook/assets/corn 4@2x.png" alt=""><figcaption></figcaption></figure>
+
 * **Economy values:** Medium-high
 * **Growing period:** Corn has a relatively long growing period compared to many other crops, taking approximately 13 hours to mature. \
   It's essential to water them 3times within the specified time frame to achieve maximum productivity.
