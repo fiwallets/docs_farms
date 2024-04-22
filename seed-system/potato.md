@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/tree-mid-7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-mid-7.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/tree-7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-7.png" alt=""><figcaption></figcaption></figure>
 
 </div>

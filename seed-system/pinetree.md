@@ -23,14 +23,14 @@ layout:
 
 <div>
 
-<figure><img src="../../.gitbook/assets/1.png" alt="" width="175"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt="" width="175"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/tree-mid-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-mid-1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/tree-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-1.png" alt=""><figcaption></figcaption></figure>
 
 </div>

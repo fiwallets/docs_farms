@@ -21,10 +21,10 @@ layout:
 
 <div>
 
-<figure><img src="../../.gitbook/assets/tree-mid-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-mid-3.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/tree-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-3.png" alt=""><figcaption></figcaption></figure>
 
 </div>

@@ -7,14 +7,14 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/4-1.png" alt="" width="175"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4-1.png" alt="" width="175"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/tree-mid-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-mid-4.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/tree-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tree-4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
