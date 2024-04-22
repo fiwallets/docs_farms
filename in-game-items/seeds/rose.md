@@ -14,7 +14,7 @@ layout:
 
 # 🌹 Rose
 
-<figure><img src="../../.gitbook/assets/rose.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rose1.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** Low
 * **Growing period:** Rose trees have a short growth period of 4 hours and only need to be watered 3 times before they can be harvested.
