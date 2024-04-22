@@ -21,7 +21,7 @@ layout:
 
 **Game Mechanics Farm:**
 
-<figure><img src="../.gitbook/assets/Gamemechanics.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/flow.png" alt=""><figcaption><p>Game Mechanics Farm</p></figcaption></figure>
 
 **1. Play Game:** Register an account by connecting to Metamask wallet
 
@@ -35,7 +35,7 @@ layout:
 **4. Token Game**
 
 * MGT (Miexs Game token) is the main token in MiexsFarm. It can be used to purchase items in-game
-* &#x20;Currently, FGT is only function is to buy a chest which will allow them to unlock and earn rewards.
+* &#x20;Currently, the FGT (Farm Game token) is only function is to buy a chest allowing them to unlock and earn rewards.
 * Through the ORACLE system, crop prices and crop profits when converted to USD will not change. The profit from the harvest will be fixed depending on the variety you grow without regard to the price of the token.
 
 _**An overall look at the entire game flow.**_&#x20;

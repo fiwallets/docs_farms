@@ -39,7 +39,7 @@ The information about the price and profit percentage of seeds after harvest is 
 
 \+ Ensure 100% harvest output when farmers use 2 times of fertilizer for 1 plant or 3 times of watering within the prescribed time periods.
 
-## 3. Withdrawals
+## 3. Withdrawals (Coming soon)
 
 * **The minimum withdrawal amount is $10/time. No maximum limit.**
 * **The first withdrawal will be allowed after 24 hours from the first time login. The next time will be 1 hour after the previous withdrawal.**

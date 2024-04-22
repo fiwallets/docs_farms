@@ -19,7 +19,7 @@
   * [🛒 Shop](game-features/basic-features/shop.md)
   * [🌱 Planting](game-features/basic-features/planting.md)
   * [🛖 Warehouse](game-features/basic-features/storehouse.md)
-  * [🎁 Treasure Chest Box](game-features/basic-features/treasure-chest-box.md)
+  * [🎁 Treasure Chest](game-features/basic-features/treasure-chest.md)
 * [🌈 Upcoming Features](game-features/upcoming-features.md)
 
 ## SEED SYSTEM

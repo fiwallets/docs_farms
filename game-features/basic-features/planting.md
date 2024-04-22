@@ -18,28 +18,41 @@ layout:
 
 Each player will be provided with 30 empty land plots for planting. After purchasing seeds from the shop, players can start planting on these plots.
 
-To start planting, the player needs to click on an empty plot of land, and a table of available seeds in the warehouse will be displayed
+**To start planting:**&#x20;
+
+* The player needs to click on an empty plot of land, and a table of available seeds in the warehouse will be displayed
 
 <figure><img src="../../.gitbook/assets/planting.png" alt=""><figcaption></figcaption></figure>
 
-Continue, to choose the seeds to plant.
+* Continue, to choose the type of seed you want to plant. Each type of plant may require different growing conditions. So the planting was successful.
 
 ## **2. Taking care of plants**
 
+* Each plant will go through three stages of maturity before it can be harvested.&#x20;
+* Players will need to cultivate and water the plants during each of these stages to ensure the plants grow as well as possible.
 
+**Cultivation and watering:**
 
-* Mỗi cây trồng sẽ trải qua ba giai đoạn trưởng thành trước khi có thể thu hoạch được.
-* Người chơi sẽ cần thực hiện canh tác và tưới nước cho cây trong mỗi giai đoạn này để đảm bảo cây phát triển tốt nhất có thể.
+<figure><img src="../../.gitbook/assets/watering.png" alt=""><figcaption><p>Watering</p></figcaption></figure>
 
-**Canh tác và tưới nước:**
+* Players will need to cultivate and water the plants three times within the specified time frame for each stage.&#x20;
+* The time between cultivation and watering can be determined based on the type of plant and growing conditions.
 
-* Người chơi sẽ cần thực hiện canh tác và tưới nước cho cây ba lần theo thời gian đã quy định cho mỗi giai đoạn.
-* Thời gian giữa các lần canh tác và tưới nước có thể được xác định dựa trên loại cây và điều kiện trồng.
+**Buy compostable items:**
 
-**Mua vật phẩm phân bón:**
+* Players can purchase fertilizer items from the in-game store.&#x20;
+* Using fertilizer can help increase yields and reduce the time needed for plants to mature
 
-* Người chơi có thể mua vật phẩm phân bón từ cửa hàng trong trò chơi.
-* Sử dụng phân bón có thể giúp tăng năng suất và giảm thời gian cần thiết cho cây trưởng thành.
-* Việc mua và sử dụng phân bón sẽ cần một số tài nguyên hoặc tiền trong trò chơi.
+When using fertilizer, the plant's growth time will be shortened from 3 stages to 2 stages. Each time a farmer uses fertilizer, the plant will increase its maturity level by 1 stage.
 
-\
+Ensuring a 100% harvest yield when farmers fertilize their plants twice or water them three times within the specified time frame.
+
+## 3. Harvest
+
+<figure><img src="../../.gitbook/assets/harvest.png" alt=""><figcaption></figcaption></figure>
+
+Once the plant has matured, farmers can harvest to receive the corresponding products.
+
+* Harvest yield may vary depending on the quality of the seeds and the plant care process.
+* After harvesting, the plant will wither, and farmers will need to purchase new seeds for replanting. The planting process is a continuous cycle, and farmers will have to prepare new seeds after each harvest to continue the process of caring for and planting new crops.
+

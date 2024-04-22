@@ -19,3 +19,5 @@ layout:
 
 # 🛖 Warehouse
 
+<figure><img src="../../.gitbook/assets/warehouse (1).png" alt=""><figcaption></figcaption></figure>
+
