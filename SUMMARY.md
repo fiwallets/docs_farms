@@ -48,8 +48,8 @@
   * [🐔 Chicken](in-game-items/animals-coming-soon/chicken.md)
   * [🐄 Cow](in-game-items/animals-coming-soon/cow.md)
 
-## SOCIAL MEDIA
+## THE FARM INFO
 
-* [Telegram](http://t.me/VinDAX\_Exchange)
-* [Website](https://farms.miexs.com/)
-* [Miexs Chain](https://scan.miexs.com/)
+* [🗺️ Roadmap](the-farm-info/roadmap.md)
+* [🖼️ Tokenomics](the-farm-info/tokenomics.md)
+* [🔗 Official Links](the-farm-info/official-links.md)
