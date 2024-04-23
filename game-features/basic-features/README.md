@@ -1,10 +1,10 @@
 ---
-cover: ../../.gitbook/assets/Screenshot 2024-04-22 133305.png
-coverY: 2094.488
+cover: ../../.gitbook/assets/feature.png
+coverY: 38.32941176470589
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
