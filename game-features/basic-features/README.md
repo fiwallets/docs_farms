@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Screenshot 2024-04-22 133305.png
-coverY: 131
+coverY: 252.632
 layout:
   cover:
     visible: true
