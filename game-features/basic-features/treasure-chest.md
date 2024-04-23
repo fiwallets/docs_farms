@@ -48,9 +48,7 @@ For example, if you open a chest of Bronze containing 1500 tokens,
 
 <figure><img src="../../.gitbook/assets/reward.png" alt="" width="563"><figcaption><p>Rewards for opening chests</p></figcaption></figure>
 
-
-
-❌ <mark style="color:red;">**The rate to receive rewards and the number of bonus items in the ball can be changed according to customer requests.**</mark>
+❌ <mark style="color:red;">**The rate to receive rewards and the number of bonus items can be changed according to customer requests.**</mark>
 
 
 
