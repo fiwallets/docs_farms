@@ -14,7 +14,7 @@ layout:
 
 # 🫧 Sugarcane
 
-<figure><img src="../.gitbook/assets/sugarcane 2@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sugar.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** Medium- High
 * **Growing period:** Sugarcane trees have an average growth period is 15 hours, and need to be watered 3 times to be harvested.

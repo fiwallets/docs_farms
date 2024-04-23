@@ -1,4 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🤎 Rubber
+
+<figure><img src="../.gitbook/assets/rubbertree.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** High
 * **Growing period:** Rubber trees have a relatively long growing period compared to many other crops, taking approximately 19 hours to mature. \

@@ -14,6 +14,8 @@ layout:
 
 # 🌲 Pinetree
 
+<figure><img src="../.gitbook/assets/pinetree.png" alt=""><figcaption></figcaption></figure>
+
 * **Economy values:** Very High
 * **Growing period:** Pinetrees have a relatively long growing period compared to many other crops, taking approximately 22 hours to mature. \
   It's essential to water them 3times within the specified time frame to achieve maximum productivity.

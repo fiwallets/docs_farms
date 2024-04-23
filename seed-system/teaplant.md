@@ -14,7 +14,7 @@ layout:
 
 # 🌿 Teaplant
 
-<figure><img src="../.gitbook/assets/teaplant 2@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/teaplant.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** High
 * **Growing period:** Teaplant trees have a long growth period and only need to be watered 3 times harvested.

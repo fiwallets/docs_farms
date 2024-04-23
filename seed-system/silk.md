@@ -14,7 +14,7 @@ layout:
 
 # 🪅 Silk
 
-<figure><img src="../.gitbook/assets/silk 2@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/silk.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** Medium-High
 * **Growing period:** Silk trees have a short growth period and only need to be watered 2 times harvested.
