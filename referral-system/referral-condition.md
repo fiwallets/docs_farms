@@ -32,5 +32,3 @@ In the game, there's a VIP system where players can upgrade by meeting two speci
    * Referred players joining the system will receive a 1% discount on the purchase price of seed packs.
 
 This system creates conditions for VIP-level upgrades based on increasing participation and NFT ownership while also encouraging interaction and purchases within the community through referral bonuses and discounts.
-
-❌<mark style="color:red;">**Any cheating, hacking or exploiting bugs will be banned immediately!!**</mark>

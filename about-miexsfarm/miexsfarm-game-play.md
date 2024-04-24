@@ -21,7 +21,7 @@ layout:
 
 **Game Mechanics Farm:**
 
-<figure><img src="../.gitbook/assets/flow.png" alt=""><figcaption><p>Game Mechanics Farm</p></figcaption></figure>
+
 
 **1. Play Game:** Register an account by connecting to Metamask wallet
 
