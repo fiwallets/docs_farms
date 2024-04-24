@@ -25,28 +25,13 @@
 ## IN GAME ITEMS
 
 * [🌱 Seeds](in-game-items/seeds/README.md)
-  * [🌹 Rose](in-game-items/seeds/rose.md)
-  * [💐 Jasmine](in-game-items/seeds/jasmine.md)
-  * [🥕 Carrot](seed-system/carrot.md)
   * [🍅 Tomato](seed-system/tomato.md)
-  * [🥔 Potato](seed-system/potato.md)
   * [🍓 Strawberry](seed-system/strawberry.md)
-  * [🌾 Rice](seed-system/rice.md)
-  * [☀️ Wheat](seed-system/wheat.md)
-  * [🥜 Peanut](seed-system/peanut.md)
   * [💮 Cotton](seed-system/cotton.md)
-  * [🫧 Sugarcane](seed-system/sugarcane.md)
-  * [🌶️ Pepper](seed-system/pepper.md)
-  * [☕ Coffee](seed-system/coffee.md)
-  * [🪅 Silk](seed-system/silk.md)
-  * [🌿 Teaplant](seed-system/teaplant.md)
-  * [🌲 Pinetree](seed-system/pinetree.md)
-  * [🤎 Rubber](seed-system/rubber.md)
-  * [🫘 Cacao](seed-system/cacao.md)
   * [🌽 Corn](seed-system/corn.md)
-* [🐾 Animals (Coming Soon)](in-game-items/animals-coming-soon/README.md)
-  * [🐔 Chicken](in-game-items/animals-coming-soon/chicken.md)
-  * [🐄 Cow](in-game-items/animals-coming-soon/cow.md)
+  * [🌲 Pinetree](seed-system/pinetree.md)
+  * [🫘 Cacao](seed-system/cacao.md)
+  * [🌳 Coffee](in-game-items/seeds/coffee.md)
 
 ## THE FARM INFO
 
