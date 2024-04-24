@@ -4,7 +4,7 @@ coverY: 0
 layout:
   cover:
     visible: false
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -19,7 +19,7 @@ layout:
 
 # 🎮 MiexsFarm - Game Flow
 
-**Game Mechanics Farm:**
+## **Game Mechanics Farm:**
 
 <figure><img src="../.gitbook/assets/Game Flow.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ layout:
 * MGT (Miexs Game token) is the main token in MiexsFarm. It can be used to purchase items in-game
 * Through the ORACLE system, crop prices and crop profits when converted to USD will not change. The profit from the harvest will be fixed depending on the variety you grow without regard to the price of the token.
 
-_**An overall look at the entire game flow.**_&#x20;
+## _**An overall look at the entire game flow.**_&#x20;
 
 #### **Step 1: Set up**
 
@@ -49,20 +49,24 @@ To start playing the game, each **"**future farmer" of MiexsFarm needs to create
 
 Each account will be a transaction wallet address, which farmers can use to store items and confirm transactions through this wallet.&#x20;
 
-&#x20;Make a Deposit to the game wallet address that the user
+&#x20;Make a **Deposit** to the game wallet address that the user
 
-#### **Step 2:** Cultivation process
+#### **Step 2:** Deposit&#x20;
+
+Deposit your MiexsFarm tokens on the Miexsgaming website.
+
+#### **Step 3:** Cultivation process
 
 Each player has 30 plots of land available. The player needs to plant the seeds on the plots of land on the farm.
 
-**1. Sow the seeds**
+**1. Sow the seeds - buy seed**
 
 * Farmer Players can choose from various seeds or seedlings available in the game's store. Click \[[**`Shop`**](../game-features/basic-features/shop.md)] to buy.
 * Each seed has detailed information, including estimated maturity time, and harvest value.
 
 For example, the "Pinetree" plant has a maturation time of 7 hours, while the "Cacao" plant has a maturation time of 25 hours.
 
-**2. Taking care of plants**
+**2.** Water your seeds
 
 * Crops need to be tended before they can be harvested. After planting the player needs to water them sufficiently every 2 hours.&#x20;
 * If the player does not provide enough water the tree may become slow to grow and cannot be harvested on time.
@@ -71,14 +75,11 @@ For example, the "Pinetree" plant has a maturation time of 7 hours, while the "C
 
 * [**`Growth Times`**](miexsfarm-rules.md#id-1.-the-type-of-seed-affects-how-plants-grow-and-what-they-produce)and yield will vary depending on care conditions and plant type.&#x20;
 
-#### **4. Harvests**&#x20;
+#### **4.** Complete the Watering cycle, then Harvest.
 
 * When the tree has matured, Farmers can harvest. The tokens received will be automatically added directly to the player's in-game wallet.
 * After harvesting, the plant will die and you must buy new seeds to plant.
 
-
-
-* [x] **Claim Reward**
+**Claim Reward**
 
 Players can refer friends to play the game to reach the VIP level and get extra huge bonus rewards from the in-game [`referral` ](../referral-system/what-is-the-referral-system.md)system.
-

@@ -5,7 +5,7 @@
 ## ABOUT MIEXSFARM
 
 * [🎮 MiexsFarm - Game Flow](about-miexsfarm/miexsfarm-game-play.md)
-* [🏵️ MiexsFarm Rules](about-miexsfarm/miexsfarm-rules.md)
+* [📜 MiexsFarm Rules](about-miexsfarm/miexsfarm-rules.md)
 
 ## REFERRAL SYSTEM
 

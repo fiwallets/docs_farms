@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🏵️ MiexsFarm Rules
+# 📜 MiexsFarm Rules
 
 With the ORACLE system, players are guaranteed a profit from each type of tree they choose to buy and farm. The tokens will be balanced to the rate of USD when players buy the seeds and harvest. So players only need to care about the seed price in the shop and the seed's profit rate. No need to care about the price of the tokens.
 
@@ -44,4 +44,6 @@ The information about the price and profit percentage of seeds after harvest is 
 * The first withdrawal will be allowed after 24 hours from the first time login. The next time will be 1 hour after the previous withdrawal.
 * Once the game pool is over, the growing season will end. Please wait for the next crop to continue farming.
 * 90% of fees are used for buybacks and burns to support the token price. 10% for distribution group development and marketing activities.
+
+#### ⭕ <mark style="color:red;">**Customers have the flexibility to adjust and specify various parameters such as price, profits, watering intervals, bonuses, transaction fees, and more, according to their preferences and requirements.**</mark>&#x20;
 
