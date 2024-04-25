@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# 🪴 Planting
+# 🪴 Farm
 
-## 1. Planting seeds
+## 1. Sow seeds
 
 Each player will be provided with 30 empty land plots for planting. After purchasing seeds from the shop, players can start planting on these plots.
 

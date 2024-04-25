@@ -18,7 +18,7 @@
 * [✨ Basic Features](game-features/basic-features/README.md)
   * [🪙 Deposit](game-features/basic-features/deposit.md)
   * [🛒 Shop](game-features/basic-features/shop.md)
-  * [🪴 Planting](game-features/basic-features/planting.md)
+  * [🪴 Farm](game-features/basic-features/farm.md)
   * [🛖 Warehouse](game-features/basic-features/storehouse.md)
   * [💵 Withdraw](game-features/basic-features/withdraw.md)
 
