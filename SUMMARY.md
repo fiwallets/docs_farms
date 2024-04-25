@@ -20,7 +20,7 @@
   * [🛒 Shop](game-features/basic-features/shop.md)
   * [🪴 Planting](game-features/basic-features/planting.md)
   * [🛖 Warehouse](game-features/basic-features/storehouse.md)
-  * [Page](game-features/basic-features/page.md)
+  * [💵 Withdraw](game-features/basic-features/withdraw.md)
 
 ## IN GAME ITEMS
 
