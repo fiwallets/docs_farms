@@ -22,7 +22,7 @@ The Shop is where player can purchase seeds and access detailed information abou
 
 <figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2FKp5MmVB3Qpe2JRCG0Cn8%2Fshoppng.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=109226a0ff52ea6b425e48ec88f350c8194a48ba2c1c63a7b650f462ae448810" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2FcVdgJ7JnGF4eggdDWApl%2Fdetailseedpng.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=df97070da4679a4a345687f3a929b2ce12c2164e025f8cbf237c4daf0bc275c9" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * In the Seeds section, Players can buy many types of seeds
 * Each seed will have a different price, growth time, and yield and a brief description of its characteristics and benefits.
