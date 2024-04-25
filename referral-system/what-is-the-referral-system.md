@@ -23,6 +23,11 @@ Along with reaching a certain number of crops, players can refer friends to play
 
 Each VIP level has different conditions and bonus rates. At the highest VIP level, players can get **up to** 5% worth of the products harvested and **up to** 15% from the number of tokens used to buy NFT of all referred players.
 
-<table data-full-width="false"><thead><tr><th width="128">Vip Level</th><th width="92">Referrals</th><th width="158">NFTs Required</th><th width="179">VIP System Bonus</th><th width="159">VIP Level Bonus</th></tr></thead><tbody><tr><td>0</td><td>0</td><td>1</td><td>0%</td><td>0%</td></tr><tr><td>1</td><td>5</td><td>4</td><td>1%</td><td>5%</td></tr><tr><td>2</td><td>10</td><td>8</td><td>2%</td><td>7.5%</td></tr><tr><td>3</td><td>20</td><td>12</td><td>3%</td><td>10%</td></tr><tr><td>4</td><td>40</td><td>16</td><td>4%</td><td>12.5%</td></tr><tr><td>5</td><td>100</td><td>20</td><td>5%</td><td>15%</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="128">Vip Level</th><th width="127">Referrals</th><th width="158">Seed Required</th><th width="179">VIP System Bonus</th><th width="159">VIP Level Bonus</th></tr></thead><tbody><tr><td>0</td><td>0</td><td>1</td><td>0%</td><td>0%</td></tr><tr><td>1</td><td>5</td><td>4</td><td>1%</td><td>5%</td></tr><tr><td>2</td><td>10</td><td>8</td><td>2%</td><td>7.5%</td></tr><tr><td>3</td><td>20</td><td>12</td><td>3%</td><td>10%</td></tr><tr><td>4</td><td>40</td><td>16</td><td>4%</td><td>12.5%</td></tr><tr><td>5</td><td>100</td><td>20</td><td>5%</td><td>15%</td></tr></tbody></table>
+
+1. Referrals: Số người được giới thiệu.
+2. Seed Required : Số lượng hạt giống được yêu cầu mua
+3. VIP System Bonus:  Người được giới thiệu sell products thì người giới thiệu sẽ được thưởng FGT
+4. VIP Level Bonus: Người được giới thiệu buy Seed thì người giới thiệu sẽ được nhận thưởng Tokens MGT
 
 #### ⭕ <mark style="color:red;">**Customers have the flexibility to adjust and specify various parameters such as bonuses according to their preferences and requirements.**</mark>

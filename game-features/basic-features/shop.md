@@ -41,5 +41,6 @@ Shop items provide players with items that can be used in the game, including fe
 
 <figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2FIMUIRs8dx7n2NZtdckVh%2Fitems.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8fd9cfc4a2234c6f54e8d606499e76feb19d41a04dd784f152ab946501020217" alt=""><figcaption></figcaption></figure>
 
-* **Fertilizer** is used to stimulate the growth and development of crops. This helps provide the necessary nutrients and compounds for plants to grow vigorously and yield well.
+* **Fertilizer** is used to stimulate the growth and development of crops. One application of FERTILIZE speeds up by 3 hours\
+  This helps provide the necessary nutrients and compounds for plants to grow vigorously and yield well.
 * **Food for chickens and food for cows** are used to nourish and care for chickens and cows. This may be related to livestock farming in the game, where players can raise and care for these livestock species to obtain products from them, such as eggs from chickens or milk from cows.
