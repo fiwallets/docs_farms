@@ -37,17 +37,8 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 
 <figure><img src="../../.gitbook/assets/watering.png" alt=""><figcaption><p>Watering</p></figcaption></figure>
 
-* Players will need to cultivate and water the plants three times within the specified time frame for each stage.&#x20;
+* Players will need to cultivate and water the plants times within the specified time frame for each stage.&#x20;
 * The time between cultivation and watering can be determined based on the type of plant and growing conditions.
-
-**Buy compostable items:**
-
-* Players can purchase fertilizer items from the in-game store.&#x20;
-* Using fertilizer can help increase yields and reduce the time needed for plants to mature
-
-When using fertilizer, the plant's growth time will be shortened from 3 stages to 2 stages. Each time a farmer uses fertilizer, the plant will increase its maturity level by 1 stage.
-
-Ensuring a 100% harvest yield when farmers fertilize their plants twice or water them three times within the specified time frame.
 
 ## 3. Harvest
 
