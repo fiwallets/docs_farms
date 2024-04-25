@@ -80,6 +80,10 @@ For example, the "Pinetree" plant has a maturation time of 7 hours, while the "C
 * When the tree has matured, Farmers can harvest. The tokens received will be automatically added directly to the player's in-game wallet.
 * After harvesting, the plant will die and you must buy new seeds to plant.
 
-**Claim Reward**
+#### Step 4: Withdraw
+
+Player can withdraw money from the game wallet to his main wallet
+
+**Step5: Claim Reward**
 
 Players can refer friends to play the game to reach the VIP level and get extra huge bonus rewards from the in-game [`referral` ](../referral-system/what-is-the-referral-system.md)system.
