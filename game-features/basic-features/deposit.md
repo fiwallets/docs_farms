@@ -16,7 +16,7 @@ layout:
 
 Go to menu User => Click \[Deposit]
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Input the value that you want to deposit. Click \[ok].
 

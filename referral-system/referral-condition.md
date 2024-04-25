@@ -26,9 +26,9 @@ In the game, there's a VIP system where players can upgrade by meeting two speci
      * The required number of referrals (refs).
      * The required number of NFTs for each VIP level.
 2. **Conditions for Referred Players:**
-   * Referred players must purchase at least 5 seeds total and diligently cultivate.
+   * For each Referred players must purchase at least 5 seeds total and diligently cultivate.
    * For each referred player who fulfils these conditions, the referrer will receive a percentage (%) bonus from the Referral system.
 3. **Benefits for Referrered Players:**
-   * Referrered players joining the system will receive a 1% discount on the purchase price of seed packs.
+   * Referred players joining the system will receive a 1% discount on the purchase price of seed packs.
 
 This system creates conditions for VIP-level upgrades based on increasing participation and NFT ownership while also encouraging interaction and purchases within the community through referral bonuses and discounts.

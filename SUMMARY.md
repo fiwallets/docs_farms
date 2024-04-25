@@ -20,18 +20,34 @@
   * [🛒 Shop](game-features/basic-features/shop.md)
   * [🪴 Farm](game-features/basic-features/farm.md)
   * [🛖 Warehouse](game-features/basic-features/storehouse.md)
+  * [🎁 Treasure Chest](game-features/basic-features/treasure-chest.md)
   * [💵 Withdraw](game-features/basic-features/withdraw.md)
 
 ## IN GAME ITEMS
 
 * [🌱 Seeds](in-game-items/seeds/README.md)
+  * [🌹 Rose](in-game-items/seeds/rose.md)
   * [🍅 Tomato](seed-system/tomato.md)
+  * [🥕 Carrot](in-game-items/seeds/carrot.md)
   * [🍓 Strawberry](seed-system/strawberry.md)
   * [💮 Cotton](seed-system/cotton.md)
   * [🌽 Corn](seed-system/corn.md)
   * [🌲 Pinetree](seed-system/pinetree.md)
   * [🫘 Cacao](seed-system/cacao.md)
   * [🌳 Coffee](in-game-items/seeds/coffee.md)
+  * [🏈 Rubber](in-game-items/seeds/rubber.md)
+  * [🌿 Teaplant](in-game-items/seeds/teaplant.md)
+  * [☁️ Silk](in-game-items/seeds/silk.md)
+  * [☕ Page](in-game-items/seeds/page.md)
+  * [🌶️ Page 1](in-game-items/seeds/page-1.md)
+  * [🫧 Sugarcane](in-game-items/seeds/sugarcane.md)
+  * [🥜 Peanut](in-game-items/seeds/peanut.md)
+  * [☀️ Wheat](in-game-items/seeds/wheat.md)
+  * [🌾 Rice](in-game-items/seeds/rice.md)
+  * [🗨️ Jasmine](in-game-items/seeds/jasmine.md)
+* [🐥 Animals (Coming Soon)](in-game-items/animals-coming-soon/README.md)
+  * [🐔 Chicken](in-game-items/animals-coming-soon/chicken.md)
+  * [🐄 Cow](in-game-items/animals-coming-soon/cow.md)
 
 ## THE FARM INFO
 

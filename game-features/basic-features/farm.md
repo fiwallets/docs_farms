@@ -18,6 +18,8 @@ layout:
 
 Each player will be provided with 30 empty land plots for planting. After purchasing seeds from the shop, players can start planting on these plots.
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 **To start planting:**&#x20;
 
 * The player needs to click on an empty plot of land, and a table of available seeds in the warehouse will be displayed
@@ -35,10 +37,19 @@ Each player will be provided with 30 empty land plots for planting. After purcha
 
 **Cultivation and watering:**
 
-<figure><img src="../../.gitbook/assets/watering.png" alt=""><figcaption><p>Watering</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-* Players will need to cultivate and water the plants times within the specified time frame for each stage.&#x20;
+* Players will need to cultivate and water the plants three times within the specified time frame for each stage.
 * The time between cultivation and watering can be determined based on the type of plant and growing conditions.
+
+**Buy compostable items:**
+
+* Players can purchase fertilizer items from the in-game store.
+* Using fertilizer can help increase yields and reduce the time needed for plants to mature
+
+When using fertilizer, the plant's growth time will be shortened from 3 stages to 2 stages. Each time a farmer uses fertilizer, the plant will increase its maturity level by 1 stage.
+
+Ensuring a 100% harvest yield when farmers fertilize their plants twice or water them three times within the specified time frame.
 
 ## 3. Harvest
 

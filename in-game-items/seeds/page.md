@@ -1,20 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# ☕ Page
 
-# 🌳 Coffee
-
-<figure><img src="../../.gitbook/assets/coffee" alt=""><figcaption></figcaption></figure>
+![](https://fiwallets-organization.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2FeDKp2QC7q6gNV5hVHrkA%2Fcoffee\&width=768\&dpr=4\&quality=100\&sign=fbf25b98f270f0c127caa7c90df3d3d126c91bb65e2430accfdaaaa0d8d37195)
 
 * **Economy values:** High
 * **Growing period:** Growing and caring for coffee trees can take a relatively long time of about 20 hours to harvest. It is important to water at prescribed intervals to achieve maximum yield.
