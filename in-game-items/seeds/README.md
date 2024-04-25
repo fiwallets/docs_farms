@@ -22,7 +22,7 @@ Seed is one of the most important items in the farming game. They represent the 
 
 Each type of seed may have its characteristics, such as growing time, yield, and commercial value.
 
-<figure><img src="../../.gitbook/assets/seeds (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 To determine the watering milestones and harvest time for plants in the game, based on the planting time and a coefficient calculated from the growth time :
 
