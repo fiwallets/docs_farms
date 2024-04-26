@@ -27,7 +27,7 @@ layout:
 * They will receive a corresponding amount of FGT (in-game currency) upon selling the products.
 * FGT can then be used to purchase chests within the game.
 
-<figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2F8GOPuSYmU9dDjyCUifiQ%2Fproducts&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5d2c0a15bd106345ac7c70ffbff5b3cab2012025b9ba6f58d9f4f91bf719bd78" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/products.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Bestseller Shop <a href="#id-2.-bestseller-shop" id="id-2.-bestseller-shop"></a>
 
