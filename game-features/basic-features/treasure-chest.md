@@ -35,7 +35,7 @@ After completing the sale of products to receive FGT, players will use FGT to op
 
 * There are 4 treasure chests in total. IncIncluding Bronze - Silver - Golden - Diamond
 
-<figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2Fv8RScTpndl5IiB9NsWvL%2Fchest.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=519fc10e93a324af44aa7a6e66a2dac311570f06ad414cd4e2d9c153e7ebdcee" alt=""><figcaption><p>Treasure Chests</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 For example, if you open a chest of Bronze containing 3000 tokens,
 

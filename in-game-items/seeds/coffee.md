@@ -14,7 +14,7 @@ layout:
 
 # 🌳 Coffee
 
-<figure><img src="../../.gitbook/assets/coffee" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-23 093840.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** High
 * **Growing period:** Growing and caring for coffee trees can take a relatively long time of about 20 hours to harvest. It is important to water at prescribed intervals to achieve maximum yield.

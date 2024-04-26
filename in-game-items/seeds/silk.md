@@ -1,6 +1,6 @@
 # ☁️ Silk
 
-<figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2F4C6cLyVX2lzArc2o7huS%2Fsilk.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=76287b77c6b514f41cb4ba6656dabafadc9d0623c6bda6c4468ce094159dc9b8" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/silk.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** Medium-High
 * **Growing period:** Silk trees have a short growth period and only need to be watered 2 times harvested.

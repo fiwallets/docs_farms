@@ -1,6 +1,6 @@
 # 🥜 Peanut
 
-<figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2FVLqBVdNsQqjCDGLZnqCu%2Fpeanuts%2520.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cddb11ea13365feb3f284909e4faf7d73cca94ce584ced824785c91aa8a9b3a3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/peanuts .png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** Medium-high
 * **Growing period:** Peanut plants have a longer growing period compared to some other crops. The growth period of peanut plants is approximately 12 hours. To ensure a successful harvest, it's recommended to water the peanut plants three times at specified intervals for optimal growth.

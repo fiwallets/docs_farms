@@ -18,7 +18,7 @@ layout:
 
 Each player will be provided with 30 empty land plots for planting. After purchasing seeds from the shop, players can start planting on these plots.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **To start planting:**&#x20;
 

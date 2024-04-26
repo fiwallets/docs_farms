@@ -1,6 +1,6 @@
 # 🌿 Teaplant
 
-<figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2FaGYwIpY7cyD0nlYzJVlB%2Fteaplant.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c6be299965c94198bad5233076c584eb153af61e57892cc7b9b6926da9c5c6e3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/teaplant.png" alt=""><figcaption></figcaption></figure>
 
 * **Economy values:** High
 * **Growing period:** Teaplant trees have a long growth period and only need to be watered 3 times harvested.
