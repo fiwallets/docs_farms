@@ -40,7 +40,7 @@ After completing the sale of products to receive FGT, players will use FGT to op
 For example, if you open a chest of Bronze containing 1500 tokens,
 
 * 1500 FGT Bronze CHESTS.SEEDS ( ROSE 90%, jasmine 80% carrot 70%, tomato 60%, potato 40 %)   MIX tokens (295-350) chance 10%.
-* 3000 FGT Silver CHESTS( STRAWBERRY 90%, RICE80% ,WHEAT 70% PEANU T60% CORN 40%  )  MIX tokens (515-560) chance 10%.
+* 3000 FGT Silver CHESTS( STRAWBERRY 90%, RICE80% ,WHEAT 70% PEANUT T60% CORN 40%  )  MIX tokens (515-560) chance 10%.
 * 6000  FGT  Golden CHESTS (COTTON 90%  SUGARCANE 80% SILK 70% TEAPLANT 60% PEPPER 40% ) MIX tokens (750-810) chance 10%.
 
 <figure><img src="https://fiwallets-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2Fy39LOQQezVvERXFqNDkL%2Fblobs%2FMIEJVVl51KMwBuo3A60q%2Freward.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=54865c9b935c30bd0c878c02780bd8526c8b8893a24967d1820e47cfec47d5a6" alt=""><figcaption><p>Rewards for opening chests</p></figcaption></figure>
