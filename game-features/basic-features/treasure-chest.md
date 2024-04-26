@@ -33,7 +33,7 @@ layout:
 
 After completing the sale of products to receive FGT, players will use FGT to open treasure chests, each chest will provide a different reward. Users will receive a random reward
 
-* There are 4 treasure chests in total. IncIncluding Bronze - Silver - Golden
+* There are 3 Treasure Chests in total. IncIncluding Bronze - Silver - Golden
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
