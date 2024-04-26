@@ -50,13 +50,17 @@ The information about the price and profit percentage of seeds after harvest is 
 ## **2. Watering - Fertilizer** <a href="#id-2.-watering-fertilizer" id="id-2.-watering-fertilizer"></a>
 
 * Tree termites will have 3 growth levels. During the growth process, you need to water the plant at least three times. After each watering, the water will remain for at least one-third of the growth time. If the soil dries out, the plant will reduce its yield.
-* You can use fertilizer to accelerate the plant's growth. One application of FERTILIZE speeds up by 3 hours
+* You can use fertilizer to accelerate the plant's growth.
 
-## 3. Deposit
+\+ When using fertilizer, the plant will shorten the time it takes to grow to maturity, from 3 levels down to 2 levels. Each Farner uses fertilizer and the plant will increase its maturity level by 1 level..
+
+\+ Ensure 100% harvest output when farmers use 2 times of fertilizer for 1 plant or 3 times of watering within the prescribed time periods.
+
+## 3. Deposit (coming soon)
 
 * Depositing in-game tokens will incur a 2.5% transaction fee.
 
-## 4. Withdraw
+## 4. Withdraw (coming soon)
 
 * Withdrawal of in-game tokens will incur a 2.5% transaction fee.
 * The minimum withdrawal amount is $10/time. No maximum limit.
