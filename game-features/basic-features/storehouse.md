@@ -23,7 +23,7 @@ The warehouse is a storage space where players can store and manage items and pr
 
 **Items:**
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 * Items section typically contains various items that players can use or interact with. These items may include fertilizers, tools, or animal food.
 
